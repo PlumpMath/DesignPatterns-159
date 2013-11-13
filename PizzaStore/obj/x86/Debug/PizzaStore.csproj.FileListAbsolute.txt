@@ -1,0 +1,5 @@
+c:\users\simona\documents\visual studio 2010\Projects\PizzaStore\PizzaStore\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\simona\documents\visual studio 2010\Projects\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe
+c:\users\simona\documents\visual studio 2010\Projects\PizzaStore\PizzaStore\bin\Debug\PizzaStore.pdb
+c:\users\simona\documents\visual studio 2010\Projects\PizzaStore\PizzaStore\obj\x86\Debug\PizzaStore.exe
+c:\users\simona\documents\visual studio 2010\Projects\PizzaStore\PizzaStore\obj\x86\Debug\PizzaStore.pdb

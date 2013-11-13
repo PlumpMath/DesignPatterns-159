@@ -1,0 +1,5 @@
+c:\users\simona\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\simona\documents\visual studio 2010\Projects\CarFactory\CarFactory\bin\Debug\CarFactory.exe
+c:\users\simona\documents\visual studio 2010\Projects\CarFactory\CarFactory\bin\Debug\CarFactory.pdb
+c:\users\simona\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\CarFactory.exe
+c:\users\simona\documents\visual studio 2010\Projects\CarFactory\CarFactory\obj\x86\Debug\CarFactory.pdb
